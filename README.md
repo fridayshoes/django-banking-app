@@ -10,15 +10,21 @@ A simple banking app with the following features:
 
 ### Install Django
 
+```
 pip install django
+```
 
 ### Install Black
 
+```
 pip install black
+```
 
 ### Run local server
 
+```
 python manage.py runserver
+```
 
 ## Features
 
@@ -30,7 +36,9 @@ Created placeholder bank client enrollment page at http://127.0.0.1:8000/enroll/
 
 Install faker library for business transaction data
 
+```
 pip install faker
+```
 
 Created static placeholder data for personal transactions at http://127.0.0.1:8000/transactions/personal/
 
